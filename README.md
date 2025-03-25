@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arun-code-1
-- 👀 I’m interested in daily learning something
+- 👀 I’m interested in learn something new
 - 🌱 I’m currently learning python  
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me just mail me on av3434564@gmial.com
